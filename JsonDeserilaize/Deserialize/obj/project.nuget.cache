@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUvNPkI/CCc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firat.bitmez\\OneDrive - Related Digital\\Desktop\\JsonDeserilaize\\Deserialize\\Deserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firat.bitmez\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
